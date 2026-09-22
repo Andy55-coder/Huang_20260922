@@ -5,5 +5,5 @@ git init
 git status #檢查檔案狀態
 git add README.md
 git add .
-# add something
 git commit -m 'add new file and modified'
+git logy
