@@ -10,3 +10,4 @@ git log
 # testing git log
 
 git log --oneline
+            git diff <verison.num> -- <file.name>
