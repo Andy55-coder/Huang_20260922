@@ -11,3 +11,10 @@ git log
 
 git log --oneline
             git diff <verison.num> -- <file.name>
+
+git checkout <version.num> -- <file.name>
+
+git reset --hard <versioin.num> //無法回去
+git reset --soft <version.num>
+
+new file name = supplementary.md
