@@ -6,4 +6,4 @@ git status #檢查檔案狀態
 git add README.md
 git add .
 git commit -m 'add new file and modified'
-git logy
+git log
