@@ -7,4 +7,6 @@ git add README.md
 git add .
 git commit -m 'add new file and modified'
 git log
+# testing git log
 
+git log --oneline
